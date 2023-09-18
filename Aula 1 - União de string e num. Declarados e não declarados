@@ -1,0 +1,7 @@
+let nome = (`"Don Deniro"`);
+let hora = ('19h');
+
+
+
+console.log(`Meu nome é ${nome}, estou aprendendo javascript ás ${hora} da noite`);
+
